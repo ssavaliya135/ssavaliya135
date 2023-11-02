@@ -1,5 +1,5 @@
 ![logo](https://github.com/ssavaliya135/ssavaliya135/blob/main/node-js-banner.webp)
-<h1 align="center">Hi 👋, I'm Srshti Savaliya</h1>
+<h1 align="center">Hi 👋, I'm Srushti Savaliya</h1>
 <h3 align="center">A passionate nodejs developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssavaliya135&label=Profile%20views&color=0e75b6&style=flat" alt="ssavaliya135" /> </p>
